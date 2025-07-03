@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-peach-zeta-74.vercel.app/welcome](https://portfolio-peach-zeta-74.vercel.app/welcome)
 
-- 💬 Ask me about **React, Next.js, Express.js, Django, JavaScript, Typescript**
+- 💬 Ask me about **React, Next.js, Express.js, Django, JavaScript, TypeScript**
 
 - 📫 How to reach me **nirmalcherianitty@gmail.com**
 
