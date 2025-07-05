@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLM AI and ML**
 
-- I am working on [HrishiMurali/UX-Portfolio](https://github.com/HrishiMurali/UX-Portfolio)
+- I am working on [HrishiMurali/UX-Portfolio](https://github.com/HrishiMurali/UX-Portfolio) and [LLM Engineering]([https://github.com/HrishiMurali/UX-Portfolio](https://github.com/Sevethseal/llm_engineering))
 
 - 👨‍💻 All of my projects are available at [https://portfolio-peach-zeta-74.vercel.app/welcome](https://portfolio-peach-zeta-74.vercel.app/welcome)
 
